@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+catboost
+openpyxl
+matplotlib
+sentence-transformers
+pyarrow
